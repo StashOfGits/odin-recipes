@@ -1,3 +1,16 @@
+body {
+    font-family: sans-serif;
+    background: whitesmoke;
+}
+
+ul {
+    background: #e3f4ff;
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-size: 16px;
+    padding: 8px;
+}
+
 h1 {
     color: aliceblue;
     background-color: brown;
